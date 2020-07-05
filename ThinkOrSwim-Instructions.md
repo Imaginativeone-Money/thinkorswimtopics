@@ -71,13 +71,13 @@
       - [ ] Spread Hacker
       - [ ] Spread Book
     
-    MarketWatch
-      Quotes
-        Custom Quotes
-      Alerts
-        Study Alerts
-      Visualize
-      Calendar
+    ### MarketWatch
+      - [ ] Quotes
+        - [ ] Custom Quotes
+      - [ ] Alerts
+        - [ ] Study Alerts
+      - [ ] Visualize
+      - [ ] Calendar
 
     Charts
       Chart Modes
