@@ -133,18 +133,18 @@
       - [ ] Exchange Codes
       - [ ] Super Gadgets
       - [ ] Chat Rooms and Live Support
-  Trading How-Tos
-    Stock
-    Single Options
-    Options Strategies
-    Futures
-      Futures Education 101
-      Options on Futures: A comparison to Equity and Index Options
-      Understanding the Futures Roll
-    Forex
-    24/5 Trading
-  Mobile Trading
-    Trading on iOS
-    Trading on Android
-    Trading on iOS (iPad)
-    Getting Started
+  ## Trading How-Tos
+    - [ ] Stock
+    - [ ] Single Options
+    - [ ] Options Strategies
+    - [ ] Futures
+      - [ ] Futures Education 101
+      - [ ] Options on Futures: A comparison to Equity and Index Options
+      - [ ] Understanding the Futures Roll
+    - [ ] Forex
+    - [ ] 24/5 Trading
+  ### Mobile Trading
+    - [ ] Trading on iOS
+    - [ ] Trading on Android
+    - [ ] Trading on iOS (iPad)
+    - [ ] Getting Started
