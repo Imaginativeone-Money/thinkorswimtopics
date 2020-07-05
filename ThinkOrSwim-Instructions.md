@@ -2,7 +2,7 @@
   
   ## thinkManual
   
-    ### Getting Started
+    ## Getting Started
       Interactive Elements
       Keyboard Shortcuts
       Customization
@@ -10,7 +10,7 @@
         Create and Customize Watchlists
         Edit and Customize Studies
 
-    ### Left Sidebar
+    ## Left Sidebar
       Account Info
       Chart Describer
       Dashboard
