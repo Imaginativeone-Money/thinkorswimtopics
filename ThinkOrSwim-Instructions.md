@@ -2,10 +2,10 @@
   
   ## thinkManual
   
-    1. Getting Started
-      1.1 Interactive Elements
-      - [ ] Keyboard Shortcuts
-      - [ ] Customization
+    - Getting Started
+      - Interactive Elements
+      - Keyboard Shortcuts
+      - Customization
         - Customize Platform Appearance
         - Create and Customize Watchlists
         - Edit and Customize Studies
