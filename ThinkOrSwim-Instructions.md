@@ -1,4 +1,5 @@
 # ThinkOrSwim Tutorial(s)
+- https://tlc.thinkorswim.com/center/howToTos/thinkManual/Getting-Started
   
   ## thinkManual
   - [ ] Getting Started
@@ -8,49 +9,43 @@
       - [ ] Customize Platform Appearance
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
-  
-    - Getting Started
-      - Interactive Elements
-      - Keyboard Shortcuts
-      - Customization
-        - Customize Platform Appearance
-        - Create and Customize Watchlists
-        - Edit and Customize Studies
 
-  ### Left Sidebar
-      Account Info
-      Chart Describer
-      Dashboard
-      Watch Lists
-      FX Currency Map
-      Live Audio
-      Market Depth
-      Message Center
-      Phase Scores
-      Quick Chart
-      Quick Quote
-      Times and Sales
-      Trade Flash
-      Trader TV
-      Use The News
-      Level II
+    ### Left Sidebar
+    - [ ] Account Info
+    - [ ] Chart Describer
+    - [ ] Dashboard
+    - [ ] Watch Lists
+    - [ ] FX Currency Map
+    - [ ] Live Audio
+    - [ ] Market Depth
+    - [ ] Message Center
+    - [ ] Phase Scores
+    - [ ] Quick Chart
+    - [ ] Quick Quote
+    - [ ] Times and Sales
+    - [ ] Trade Flash
+    - [ ] Trader TV
+    - [ ] Use The News
+    - [ ] Level II
+
     ### Monitor
-      Activity and Positions
-        Today's Trade Activity
-        Position Statement
-        Beta Weighting
-      Account Statement
-      FX Reports
-      Strategy Roller
-    Trade
-      All Products
-        Today's Option Statistics
-      Forex Trader
-      Futures Trader
-      Active Trader
-        Active Trader: Overview
-        Active Trader Ladder
-        Active Trader: Entering Orders
+    - [ ] Activity and Positions
+        - [ ] Today's Trade Activity
+        - [ ] Position Statement
+        - [ ] Beta Weighting
+      - [ ] Account Statement
+      - [ ] FX Reports
+      - [ ] Strategy Roller
+
+    ### Trade
+      - [ ] All Products
+        - [ ] Today's Option Statistics
+      - [ ] Forex Trader
+      - [ ] Futures Trader
+      - [ ] Active Trader
+        - [ ] Active Trader: Overview
+        - [ ] Active Trader Ladder
+        - [ ] Active Trader: Entering Orders
       Company Profile
       Order Entry Tools
         Order Types
