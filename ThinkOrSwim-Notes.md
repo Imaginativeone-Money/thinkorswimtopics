@@ -1,6 +1,7 @@
 # ThinkOrSwim Tutorial(s)
 - https://tlc.thinkorswim.com/center/howToTos/thinkManual/Getting-Started
 - https://tlc.thinkorswim.com/center/howToTos/main/0/groups/00/fileUpload/HowTothinkorswim%20MTR.pdf.pdf
+- https://tlc.thinkorswim.com/center/reference/thinkScript/tutorials/Basic/Chapter-2---Mathematical-Functions
   
   ## thinkManual
   
