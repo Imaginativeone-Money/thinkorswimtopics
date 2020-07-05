@@ -8,7 +8,7 @@
       - [ ] Customize Platform Appearance
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
-  
+
     ### Left Sidebar
     - [ ] Account Info
     - [ ] Chart Describer
@@ -22,19 +22,21 @@
     - [ ] Quick Chart
     - [ ] Quick Quote
     - [ ] Times and Sales
-      Trade Flash
-      Trader TV
-      Use The News
-      Level II
+    - [ ] Trade Flash
+    - [ ] Trader TV
+    - [ ] Use The News
+    - [ ] Level II
+
     ### Monitor
-      Activity and Positions
-        Today's Trade Activity
-        Position Statement
-        Beta Weighting
-      Account Statement
-      FX Reports
-      Strategy Roller
-    Trade
+    - [ ] Activity and Positions
+        - [ ] Today's Trade Activity
+        - [ ] Position Statement
+        - [ ] Beta Weighting
+      - [ ] Account Statement
+      - [ ] FX Reports
+      - [ ] Strategy Roller
+
+    ### Trade
       All Products
         Today's Option Statistics
       Forex Trader
