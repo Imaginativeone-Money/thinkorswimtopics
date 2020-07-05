@@ -102,29 +102,29 @@
         - [ ] Options Settings
         - [ ] Futures Settings
         - [ ] Forex Settings
-      Using Drawings
-      Patterns
-        Using Candlestick Patterns
-        Using Classic Patterns
-        Using Fibonacci Patterns
-        Candlestick Pattern Editor
-      Using Studies and Strategies
-        Studies Setup
-        Strategies Setup
-        thinkScript Editor
-      Useful Tools
-        Chart Describer
-        Composite Symbols
-        Condition Wizard
-        Data Box
-        Drawing Alerts
-        My Tools
-        Percentage View
-        Social Sentiment
-        Study Alerts
-        thinkScript®: Q&A
-        Tick Counter
-        Product Depth
+      - [ ] Using Drawings
+      - [ ] Patterns
+        - [ ] Using Candlestick Patterns
+        - [ ] Using Classic Patterns
+        - [ ] Using Fibonacci Patterns
+        - [ ] Candlestick Pattern Editor
+      - [ ] Using Studies and Strategies
+        - [ ] Studies Setup
+        - [ ] Strategies Setup
+        - [ ] thinkScript Editor
+      - [ ] Useful Tools
+        - [ ] Chart Describer
+        - [ ] Composite Symbols
+        - [ ] Condition Wizard
+        - [ ] Data Box
+        - [ ] Drawing Alerts
+        - [ ] My Tools
+        - [ ] Percentage View
+        - [ ] Social Sentiment
+        - [ ] Study Alerts
+        - [ ] thinkScript®: Q&A
+        - [ ] Tick Counter
+        - [ ] Product Depth
     Tools
       Videos
     Miscellaneous
