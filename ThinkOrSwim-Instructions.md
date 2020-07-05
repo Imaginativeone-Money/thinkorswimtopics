@@ -125,14 +125,14 @@
         - [ ] thinkScript®: Q&A
         - [ ] Tick Counter
         - [ ] Product Depth
-    Tools
-      Videos
-    Miscellaneous
-      Portfolio Margin
-      Industry Classification
-      Exchange Codes
-      Super Gadgets
-      Chat Rooms and Live Support
+    ### Tools
+      - [ ] Videos
+    ### Miscellaneous
+      - [ ] Portfolio Margin
+      - [ ] Industry Classification
+      - [ ] Exchange Codes
+      - [ ] Super Gadgets
+      - [ ] Chat Rooms and Live Support
   Trading How-Tos
     Stock
     Single Options
