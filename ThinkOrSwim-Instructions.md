@@ -8,8 +8,16 @@
       - [ ] Customize Platform Appearance
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
+  
+    - Getting Started
+      - Interactive Elements
+      - Keyboard Shortcuts
+      - Customization
+        - Customize Platform Appearance
+        - Create and Customize Watchlists
+        - Edit and Customize Studies
 
-    ## Left Sidebar
+  ### Left Sidebar
       Account Info
       Chart Describer
       Dashboard
