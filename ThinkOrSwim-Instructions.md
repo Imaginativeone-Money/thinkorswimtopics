@@ -9,19 +9,19 @@
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
   
-  ### Left Sidebar
-  - [ ] Account Info
-  - [ ] Chart Describer
-      Dashboard
-      Watch Lists
-      FX Currency Map
-      Live Audio
-      Market Depth
-      Message Center
-      Phase Scores
-      Quick Chart
-      Quick Quote
-      Times and Sales
+    ### Left Sidebar
+    - [ ] Account Info
+    - [ ] Chart Describer
+    - [ ] Dashboard
+    - [ ] Watch Lists
+    - [ ] FX Currency Map
+    - [ ] Live Audio
+    - [ ] Market Depth
+    - [ ] Message Center
+    - [ ] Phase Scores
+    - [ ] Quick Chart
+    - [ ] Quick Quote
+    - [ ] Times and Sales
       Trade Flash
       Trader TV
       Use The News
