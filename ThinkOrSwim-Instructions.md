@@ -46,19 +46,21 @@
         - [ ] Active Trader: Overview
         - [ ] Active Trader Ladder
         - [ ] Active Trader: Entering Orders
-      Company Profile
-      Order Entry Tools
-        Order Types
-        Order Statuses
-        Order Rejection Reasons
-    Analyze
-      Add Simulated Trades
-      Risk Profile
-      Probability Analysis
-      Economic Data
-      thinkBack
-      Earnings
-      Fundamentals
+      - [ ] Company Profile
+      - [ ] Order Entry Tools
+        - [ ] Order Types
+        - [ ] Order Statuses
+        - [ ] Order Rejection Reasons
+
+    ### Analyze
+      - [ ] Add Simulated Trades
+      - [ ] Risk Profile
+      - [ ] Probability Analysis
+      - [ ] Economic Data
+      - [ ] thinkBack
+      - [ ] Earnings
+      - [ ] Fundamentals
+
     Scan
       Stock Hacker
         Sizzle Index
