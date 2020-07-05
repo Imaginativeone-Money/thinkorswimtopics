@@ -8,10 +8,9 @@
       - [ ] Customize Platform Appearance
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
-
   ### Left Sidebar
-      - [ ] Account Info
-      Chart Describer
+  - [ ] Account Info
+  - [ ] Chart Describer
       Dashboard
       Watch Lists
       FX Currency Map
