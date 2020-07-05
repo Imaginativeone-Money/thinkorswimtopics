@@ -8,6 +8,7 @@
       - [ ] Customize Platform Appearance
       - [ ] Create and Customize Watchlists
       - [ ] Edit and Customize Studies
+  
   ### Left Sidebar
   - [ ] Account Info
   - [ ] Chart Describer
