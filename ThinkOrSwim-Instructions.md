@@ -1,5 +1,7 @@
 # ThinkOrSwim Tutorial(s)
+  
   ## thinkManual
+  
     ### Getting Started
       Interactive Elements
       Keyboard Shortcuts
@@ -7,6 +9,7 @@
         Customize Platform Appearance
         Create and Customize Watchlists
         Edit and Customize Studies
+
     ### Left Sidebar
       Account Info
       Chart Describer
@@ -24,7 +27,7 @@
       Trader TV
       Use The News
       Level II
-    Monitor
+    ### Monitor
       Activity and Positions
         Today's Trade Activity
         Position Statement
