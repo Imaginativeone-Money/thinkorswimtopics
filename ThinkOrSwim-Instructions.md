@@ -1,7 +1,6 @@
 # ThinkOrSwim Tutorial(s)
   
   ## thinkManual
-  
     - Getting Started
       - Interactive Elements
       - Keyboard Shortcuts
