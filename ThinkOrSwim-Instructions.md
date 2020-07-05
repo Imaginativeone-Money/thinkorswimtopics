@@ -79,29 +79,29 @@
       - [ ] Visualize
       - [ ] Calendar
 
-    Charts
-      Chart Modes
-        Monkey Bars
-        Monkey Bars Expanded
-        Seasonality
-        Standard
-      Chart Aggregation
-        Time Charts
-        Tick Charts
-        Setting up Chart Time Frame
-        Range Charts
-      Chart Customization
-        Preparation Steps
-        Customizing Style Menu
-        General Settings
-        Price Axis Settings
-        Time Axis Settings
-        Favorite Time Frames
-        Appearance Settings
-        Equities Settings
-        Options Settings
-        Futures Settings
-        Forex Settings
+    ### Charts
+      - [ ] Chart Modes
+        - [ ] Monkey Bars
+        - [ ] Monkey Bars Expanded
+        - [ ] Seasonality
+        - [ ] Standard
+      - [ ] Chart Aggregation
+        - [ ] Time Charts
+        - [ ] Tick Charts
+        - [ ] Setting up Chart Time Frame
+        - [ ] Range Charts
+      - [ ] Chart Customization
+        - [ ] Preparation Steps
+        - [ ] Customizing Style Menu
+        - [ ] General Settings
+        - [ ] Price Axis Settings
+        - [ ] Time Axis Settings
+        - [ ] Favorite Time Frames
+        - [ ] Appearance Settings
+        - [ ] Equities Settings
+        - [ ] Options Settings
+        - [ ] Futures Settings
+        - [ ] Forex Settings
       Using Drawings
       Patterns
         Using Candlestick Patterns
