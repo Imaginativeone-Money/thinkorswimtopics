@@ -2,8 +2,8 @@
   
   ## thinkManual
   
-    -[] Getting Started
-      - [ ] Interactive Elements
+    1. Getting Started
+      1.1 Interactive Elements
       - [ ] Keyboard Shortcuts
       - [ ] Customization
         - Customize Platform Appearance
