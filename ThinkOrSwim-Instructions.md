@@ -1,4 +1,5 @@
 # ThinkOrSwim Tutorial(s)
+- https://tlc.thinkorswim.com/center/howToTos/thinkManual/Getting-Started
   
   ## thinkManual
   - [ ] Getting Started
@@ -37,14 +38,14 @@
       - [ ] Strategy Roller
 
     ### Trade
-      All Products
-        Today's Option Statistics
-      Forex Trader
-      Futures Trader
-      Active Trader
-        Active Trader: Overview
-        Active Trader Ladder
-        Active Trader: Entering Orders
+      - [ ] All Products
+        - [ ] Today's Option Statistics
+      - [ ] Forex Trader
+      - [ ] Futures Trader
+      - [ ] Active Trader
+        - [ ] Active Trader: Overview
+        - [ ] Active Trader Ladder
+        - [ ] Active Trader: Entering Orders
       Company Profile
       Order Entry Tools
         Order Types
