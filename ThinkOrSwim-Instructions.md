@@ -2,6 +2,8 @@
 - https://tlc.thinkorswim.com/center/howToTos/thinkManual/Getting-Started
   
   ## thinkManual
+  
+  ### Getting Started
   - [ ] Getting Started
     - [ ] Interactive Elements
     - [ ] Keyboard Shortcuts
@@ -61,13 +63,14 @@
       - [ ] Earnings
       - [ ] Fundamentals
 
-    Scan
-      Stock Hacker
-        Sizzle Index
-        Study Filters
-      Option Hacker
-      Spread Hacker
-      Spread Book
+    ### Scan
+      - [ ] Stock Hacker
+        - [ ] Sizzle Index
+        - [ ] Study Filters
+      - [ ] Option Hacker
+      - [ ] Spread Hacker
+      - [ ] Spread Book
+    
     MarketWatch
       Quotes
         Custom Quotes
@@ -75,6 +78,7 @@
         Study Alerts
       Visualize
       Calendar
+
     Charts
       Chart Modes
         Monkey Bars
