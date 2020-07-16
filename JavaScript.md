@@ -1,4 +1,14 @@
--[ ] JavaScript   The Complete Guide 2020 (Beginner + Advanced) 614 lectures | 52:36:34
+# ThinkOrSwim Tutorial(s)
+- https://tlc.thinkorswim.com/center/howToTos/thinkManual/Getting-Started
+  
+  ## thinkManual
+  
+  ### Getting Started
+  - [ ] Getting Started
+    - [ ] Interactive Elements
+    - [ ] Keyboard Shortcuts
+    
+- [ ] JavaScript   The Complete Guide 2020 (Beginner + Advanced) 614 lectures | 52:36:34
   -[ ] Introduction | 59:25
     -[ ] Introduction | Preview | 01:50
     -[ ] What is JavaScript? | Preview | 03:44
