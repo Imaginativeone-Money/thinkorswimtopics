@@ -1,20 +1,20 @@
-[ ] JavaScript - The Complete Guide 2020 (Beginner + Advanced) 614 lectures | 52:36:34
-  [ ] – Introduction | 59:25
-  [ ] Introduction | Preview | 01:50
+[ ] JavaScript   The Complete Guide 2020 (Beginner + Advanced) 614 lectures | 52:36:34
+  [ ] Introduction | 59:25
+    [ ] Introduction | Preview | 01:50
     [ ] What is JavaScript? | Preview | 03:44
     [ ] JavaScript in Action! | Preview | 08:57
     [ ] Join our Online Learning Community | 00:21
     [ ] How JavaScript Is Executed | Preview | 03:14
     [ ] Dynamic vs Weakly Typed Languages | Preview | 03:24
     [ ] JavaScript Runs In A Host Environment | Preview | 04:40
-    [ ] Course Outline - What Is In The Course? | Preview | 06:00
+    [ ] Course Outline   What Is In The Course? | Preview | 06:00
     [ ] How To Get The Most Out Of This Course | Preview | 02:36
     [ ] Using Course Resources | Preview | 01:02
     [ ] JavaScript vs Java | Preview | 04:02
     [ ] A Brief History Of JavaScript | Preview | 06:03
     [ ] Setting Up a Development Environment | Preview | 11:12
     [ ] Course FAQs | Preview | 02:20
-  [ ] – Basics: Variables, Data Types, Operators & Functions | 03:15:33
+  [ ] Basics: Variables, Data Types, Operators & Functions | 03:15:33
     [ ] Module Introduction | 01:17
     [ ] Setting Up the Project | 04:25
     [ ] More on Version Control & Git | 00:35
@@ -41,7 +41,7 @@
     [ ] "Shadowed Variables" | 00:48
     [ ] More about the "return" Statement | 02:24
     [ ] Executing Functions "Indirectly" | 11:10
-    [ ] "Indirect" vs "Direct" Function Execution - Summary | 01:09
+    [ ] "Indirect" vs "Direct" Function Execution   Summary | 01:09
     [ ] Functions & Scope 
     [ ] 6 questions
     [ ] Time to Practice: Functions 
@@ -55,7 +55,7 @@
     [ ] More Core Data Types! | 04:31
     [ ] Using Arrays | 08:53
     [ ] Creating Objects | 06:02
-    [ ] Objects - Common Syntax Gotchas | 00:33
+    [ ] Objects   Common Syntax Gotchas | 00:33
     [ ] Accessing Object Data | 02:51
     [ ] Arrays & Objects 
     [ ] 5 questions
@@ -65,12 +65,12 @@
     [ ] "undefined", "null" & "NaN" 
     [ ] 4 questions
     [ ] Importing Scripts Correctly with "defer" & "async" | 14:37
-    [ ] Importing JavaScript - Summary | 00:06
+    [ ] Importing JavaScript   Summary | 00:06
     [ ] Wrap Up | 02:13
     [ ] Useful Resources & Links | 00:23
-  [ ] – Efficient Development & Debugging | 58:36
+  [ ] Efficient Development & Debugging | 58:36
     [ ] Module Introduction | 01:28
-    [ ] Efficient Development & Debugging - An Overview | 03:18
+    [ ] Efficient Development & Debugging   An Overview | 03:18
     [ ] Configuring the IDE Look & Feel | 02:25
     [ ] Using Shortcuts | 04:12
     [ ] Working with Auto-Completion & IDE Hints | 04:34
@@ -80,7 +80,7 @@
     [ ] Finding Help & Working with MDN | 05:53
     [ ] The ECMAScript Standard | 00:16
     [ ] How to "google" Correctly | 01:44
-    [ ] Debugging JavaScript - An Overview | 03:17
+    [ ] Debugging JavaScript   An Overview | 03:17
     [ ] An Error Message! No Reason To Panic! | 04:46
     [ ] Using console.log() to look "into the Code" | 03:49
     [ ] Next-Level Debugging with the Chrome Devtools & Breakpoints | 08:20
@@ -88,7 +88,7 @@
     [ ] Debugging Code directly Inside VS Code | 04:55
     [ ] Wrap Up | 01:22
     [ ] Useful Resources & Links | 00:12
-  [ ] – Working with Control Structures (if Statements, Loops, Error Handling) | 03:52:16
+  [ ] Working with Control Structures (if Statements, Loops, Error Handling) | 03:52:16
     [ ] Module Introduction | 02:26
     [ ] Introducing "if" Statements & Boolean (Comparison) Operators | 09:26
     [ ] Using Booleans in Conditions & More on Text Comparisons | 01:05
@@ -97,7 +97,7 @@
     [ ] Beware When Comparing Objects & Arrays for Equality! | 04:06
     [ ] The Logical AND and OR Operators | 09:10
     [ ] Understanding Operator Precedence | 07:20
-    [ ] if & Boolean Operators - The Basics 
+    [ ] if & Boolean Operators   The Basics 
     [ ] 7 questions
     [ ] Beyond true/ false: "Truthy" and "Falsy" Values | 07:30
     [ ] Coercion vs Conversion | 01:08
@@ -116,7 +116,7 @@
     [ ] Introducing the Ternary Operator | 07:31
     [ ] A Bit of Theory: Statements vs Expressions | 01:40
     [ ] Logical Operator "Tricks" & Shorthands | 12:58
-    [ ] Logical Operators - A Quick Summary | 01:03
+    [ ] Logical Operators   A Quick Summary | 01:03
     [ ] Logical Operators & How They Work 
     [ ] 8 questions
     [ ] Working with the "switch-case" Statement | 07:10
@@ -125,7 +125,7 @@
     [ ] The "for-of" Loop | 05:16
     [ ] The "for-in" Loop | 06:49
     [ ] The "while" & "do-while" Loops | 08:00
-    [ ] Loops - Basics 
+    [ ] Loops   Basics 
     [ ] 7 questions
     [ ] Time to Practice: Control Structures 
     [ ] 1 question
@@ -134,31 +134,31 @@
     [ ] More Control with Labeled Statements | 06:26
     [ ] break & continue 
     [ ] 6 questions
-    [ ] Error Handling with "try-catch" - An Introduction | 02:25
+    [ ] Error Handling with "try-catch"   An Introduction | 02:25
     [ ] Throwing Custom Errors | 05:16
     [ ] Working with "try-catch" to Catch & Handle Errors | 08:14
     [ ] Error Handling 
     [ ] 3 questions
     [ ] Wrap Up | 03:21
     [ ] Useful Resources & Links | 00:10
-  [ ] – Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript | 01:33:48
+  [ ] Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript | 01:33:48
     [ ] Module Introduction | 01:43
-    [ ] ES5 vs ES6+ ("Next Gen JS") - Evolution of JavaScript | 08:14
-    [ ] var vs let & const - Introducing "Block Scope" | 14:32
+    [ ] ES5 vs ES6+ ("Next Gen JS")   Evolution of JavaScript | 08:14
+    [ ] var vs let & const   Introducing "Block Scope" | 14:32
     [ ] Understanding "Hoisting" | 04:07
     [ ] Strict Mode & Writing Good Code | 05:46
     [ ] "JavaScript Specialties" 
     [ ] 3 questions
     [ ] How Code is Parsed & Compiled | 08:16
-    [ ] Inside the JavaScript Engine - How the Code Executes | 15:59
+    [ ] Inside the JavaScript Engine   How the Code Executes | 15:59
     [ ] [DEEP DIVE] JavaScript Language vs Browser APIs | 01:42
     [ ] Primitive vs Reference Values | 19:24
     [ ] Garbage Collection & Memory Management | 12:00
     [ ] Wrap Up | 01:55
     [ ] Useful Resources & Links | 00:10
-  [ ] – More on Functions | 01:40:00
+  [ ] More on Functions | 01:40:00
     [ ] Module Introduction | 01:31
-    [ ] Recapping Functions Knowledge - What We Know Thus Far | 01:52
+    [ ] Recapping Functions Knowledge   What We Know Thus Far | 01:52
     [ ] Parameters vs Arguments | 00:26
     [ ] Functions vs Methods | 05:46
     [ ] Functions are Objects! | 02:47
@@ -179,18 +179,18 @@
     [ ] Time to Practice: Functions 
     [ ] 1 question
     [ ] Working with "bind()" | 08:39
-    [ ] Functions - Advanced 
+    [ ] Functions   Advanced 
     [ ] 3 questions
     [ ] Adding bind() to the Calculator Project | 03:47
     [ ] call() and apply() | 01:18
     [ ] Wrap Up | 02:10
     [ ] Useful Resources & Links | 00:09
-  [ ] – Working with the DOM (Browser HTML Code) in JavaScript | 03:38:27
+  [ ] Working with the DOM (Browser HTML Code) in JavaScript | 03:38:27
     [ ] Module Introduction | 01:48
     [ ] What's the "DOM"? | 06:00
     [ ] Document and Window Object | 06:20
     [ ] Understanding the DOM and how it's created | 07:07
-    [ ] Nodes & Elements - Querying the DOM Overview | 05:55
+    [ ] Nodes & Elements   Querying the DOM Overview | 05:55
     [ ] Selecting Elements in the DOM | 09:54
     [ ] Summary: Node Query Methods | 01:00
     [ ] Exploring and Changing DOM Properties | 07:37
@@ -200,13 +200,13 @@
     [ ] 5 questions
     [ ] Time to Practice: DOM Querying 
     [ ] 1 question
-    [ ] Traversing the DOM - Overview | 06:22
+    [ ] Traversing the DOM   Overview | 06:22
     [ ] Traversing Child Nodes | 09:15
     [ ] Using parentNode & parentElement | 05:01
     [ ] Selecting Sibling Elements | 04:05
     [ ] DOM Traversal vs Query Methods | 04:35
     [ ] Styling DOM Elements | 12:18
-    [ ] Creating Elements with JS - Overview | 02:42
+    [ ] Creating Elements with JS   Overview | 02:42
     [ ] Adding Elements via HTML in Code | 07:42
     [ ] Adding Elements via createElement() | 05:42
     [ ] Inserting DOM Elements | 08:15
@@ -228,12 +228,12 @@
     [ ] Finishing the App | 11:45
     [ ] Wrap Up | 01:55
     [ ] Useful Resources & Links | 00:12
-  [ ] – More on Arrays & Iterables | 02:04:39
+  [ ] More on Arrays & Iterables | 02:04:39
     [ ] Module Introduction | 01:08
     [ ] What are "Iterables" and "Array-like Objects"? | 02:11
     [ ] Creating Arrays | 08:55
     [ ] Which Data Can You Store In Arrays? | 03:47
-    [ ] push(), pop(), unshift(), shift() - Adding & Removing Elements | 06:59
+    [ ] push(), pop(), unshift(), shift()   Adding & Removing Elements | 06:59
     [ ] The splice() Method | 05:37
     [ ] Selecting Ranges & Creating Copies with slice() | 06:06
     [ ] Adding Arrays to Arrays with concat() | 02:23
@@ -247,10 +247,10 @@
     [ ] Where Arrow Functions Shine! | 01:31
     [ ] The Important reduce() Method | 07:33
     [ ] Chaining Methods in JavaScript | 00:48
-    [ ] Arrays & Strings - split() and join() | 04:21
+    [ ] Arrays & Strings   split() and join() | 04:21
     [ ] The Spread Operator (...) | 10:31
     [ ] Understanding Array Destructuring | 04:24
-    [ ] Maps & Sets - Overview | 04:16
+    [ ] Maps & Sets   Overview | 04:16
     [ ] Working with Sets | 07:21
     [ ] Working with Maps | 09:30
     [ ] Maps vs Objects | 03:41
@@ -260,11 +260,11 @@
     [ ] 1 question
     [ ] Wrap Up | 01:25
     [ ] Useful Resources & Links | 00:12
-  [ ] – More on Objects | 01:58:25
+  [ ] More on Objects | 01:58:25
     [ ] Module Introduction | 01:38
     [ ] What's an Object? | 05:54
     [ ] Objects & Primitive Values | 00:41
-    [ ] Objects - Recap | 02:42
+    [ ] Objects   Recap | 02:42
     [ ] Adding, Modifying & Deleting Properties | 06:46
     [ ] Special Key Names & Square Bracket Property Access | 08:36
     [ ] Property Types & Property Order | 03:55
@@ -286,13 +286,13 @@
     [ ] call() and apply() | 03:22
     [ ] What the Browser (Sometimes) Does to "this" | 02:33
     [ ] "this" and Arrow Functions | 10:36
-    [ ] "this" - Summary | 01:15
+    [ ] "this"   Summary | 01:15
     [ ] "this" 
     [ ] 6 questions
     [ ] Getters & Setters | 07:05
     [ ] Wrap Up | 01:33
     [ ] Useful Resources & Links | 00:10
-  [ ] – Classes & Object-oriented Programming (OOP) | 02:15:05
+  [ ] Classes & Object-oriented Programming (OOP) | 02:15:05
     [ ] Module Introduction | 01:55
     [ ] What is "Object-oriented Programming" (OOP)? | 03:17
     [ ] Getting Started with OOP Code | 12:10
@@ -323,12 +323,12 @@
     [ ] 5 questions
     [ ] Wrap Up | 01:51
     [ ] Useful Resources & Links | 00:09
-  [ ] – Deep Dive: Constructor Functions & Prototypes | 01:13:12
+  [ ] Deep Dive: Constructor Functions & Prototypes | 01:13:12
     [ ] Module Introduction | 01:34
     [ ] Introducing Constructor Functions | 04:02
     [ ] Constructor Functions vs Classes & Understanding "new" | 04:17
     [ ] Introducing Prototypes | 16:46
-    [ ] Prototypes - Summary | 00:59
+    [ ] Prototypes   Summary | 00:59
     [ ] Working with Prototypes | 05:19
     [ ] The Prototype Chain and the Global "Object" | 08:26
     [ ] Constructor Functions & Prototypes 
@@ -339,7 +339,7 @@
     [ ] Setting & Getting Prototypes | 10:58
     [ ] Wrap Up | 02:49
     [ ] Useful Resources & Links | 00:09
-  [ ] – Practice: OOP & Classes | 55:37
+  [ ] Practice: OOP & Classes | 55:37
     [ ] Module Introduction | 01:38
     [ ] First Project Steps & Planning | 04:46
     [ ] Creating Project Lists & Parsing Element Data | 04:08
@@ -350,7 +350,7 @@
     [ ] Adding Inheritance | 06:13
     [ ] Wrap Up | 00:57
     [ ] Useful Resources & Links | 00:07
-  [ ] – Back to the DOM & More Browser APIs | 01:16:15
+  [ ] Back to the DOM & More Browser APIs | 01:16:15
     [ ] Module Introduction | 02:31
     [ ] Using "dataset" (data-* Attributes) | 06:51
     [ ] Getting Element Box Dimensions | 05:54
@@ -367,7 +367,7 @@
     [ ] The "Error" Object & Constructor Function | 03:21
     [ ] Wrap Up | 00:43
     [ ] Useful Resources & Links | 00:12
-  [ ] – Working with Events | 01:34:44
+  [ ] Working with Events | 01:34:44
     [ ] Module Introduction | 01:31
     [ ] Introduction to Events in JavaScript | 06:18
     [ ] Different Ways of Listening to Events | 06:59
@@ -383,14 +383,14 @@
     [ ] Event Handler Functions & "this" | 02:28
     [ ] Events 
     [ ] 4 questions
-    [ ] Drag & Drop - Theory | 04:59
+    [ ] Drag & Drop   Theory | 04:59
     [ ] Configuring Draggable Elements | 06:23
     [ ] Marking the "Drop Area" | 08:52
     [ ] Dropping & Moving Data + Elements | 06:58
     [ ] Firefox Adjustments | 01:40
     [ ] Wrap Up | 01:15
     [ ] Useful Resources & Links | 00:11
-  [ ] – Advanced Function Concepts | 49:54
+  [ ] Advanced Function Concepts | 49:54
     [ ] Module Introduction | 00:57
     [ ] Pure Functions & Side-Effects | 06:13
     [ ] Impure vs Pure Functions | 02:00
@@ -405,7 +405,7 @@
     [ ] 4 questions
     [ ] Wrap Up | 01:14
     [ ] Useful Resources & Links | 00:10
-  [ ] – More on Numbers & Strings | 57:15
+  [ ] More on Numbers & Strings | 57:15
     [ ] Module Introduction | 00:53
     [ ] How Numbers Work & Behave in JavaScript | 07:46
     [ ] Floating Point (Im)Precision | 11:04
@@ -418,12 +418,12 @@
     [ ] More on Regular Expressions | 07:25
     [ ] Wrap Up | 01:20
     [ ] Useful Resources & Links | 00:10
-  [ ] – Async JavaScript: Promises & Callbacks | 01:17:16
+  [ ] Async JavaScript: Promises & Callbacks | 01:17:16
     [ ] Module Introduction | 01:12
     [ ] Understanding Synchronous Code Execution ("Sync Code") | 02:51
     [ ] Understanding Asynchronous Code Execution ("Async Code") | 05:44
     [ ] Blocking Code & The "Event Loop" | 10:30
-    [ ] Sync + Async Code - The Execution Order | 04:03
+    [ ] Sync + Async Code   The Execution Order | 04:03
     [ ] Multiple Callbacks & setTimeout(0) | 03:20
     [ ] Asynchronous Code
     [ ] 3 questions
@@ -439,7 +439,7 @@
     [ ] 5 questions
     [ ] Wrap Up | 01:27
     [ ] Useful Resources & Links | 00:10
-  [ ] – Working with Http Requests | 01:21:55
+  [ ] Working with Http Requests | 01:21:55
     [ ] Module Introduction | 01:07
     [ ] What & Why | 05:03
     [ ] How The Web Works | 00:13
@@ -462,7 +462,7 @@
     [ ] Working with FormData | 06:58
     [ ] Wrap Up | 01:17
     [ ] Useful Resources & Links | 00:11
-  [ ] – Working with JavaScript Libraries | 35:45
+  [ ] Working with JavaScript Libraries | 35:45
     [ ] Module Introduction | 00:59
     [ ] What & Why | 02:55
     [ ] Adding Libraries (Example: lodash) | 09:10
@@ -472,7 +472,7 @@
     [ ] Third-Party Library Considerations | 04:54
     [ ] Wrap Up | 00:59
     [ ] Useful Resources & Links | 00:07
-  [ ] – Modular JavaScript (Working with Modules) | 50:59
+  [ ] Modular JavaScript (Working with Modules) | 50:59
     [ ] Module Introduction | 00:56
     [ ] Splitting Code in a Sub-optimal Way | 07:12
     [ ] A First Step Towards JavaScript Modules | 03:25
@@ -488,7 +488,7 @@
     [ ] 4 questions
     [ ] Wrap Up | 01:37
     [ ] Useful Resources & Links | 00:09
-  [ ] – JavaScript Tooling & Workflows | 01:13:19
+  [ ] JavaScript Tooling & Workflows | 01:13:19
     [ ] Module Introduction | 03:23
     [ ] Project Limitations & Why We Need Tools | 08:11
     [ ] Workflow Overview | 02:42
@@ -506,7 +506,7 @@
     [ ] Using Third Party Packages with npm & Webpack | 04:06
     [ ] Wrap Up | 01:39
     [ ] Useful Resources & Links | 00:10
-  [ ] – Utilizing Browser Storage | 47:25
+  [ ] Utilizing Browser Storage | 47:25
     [ ] Module Introduction | 01:05
     [ ] Browser Storage Options | 07:21
     [ ] localStorage & sessionStorage | 10:43
@@ -516,7 +516,7 @@
     [ ] Working with IndexedDB | 04:06
     [ ] Wrap Up | 00:48
     [ ] Useful Resources & Links | 00:11
-  [ ] – JavaScript & Browser Support | 01:02:13
+  [ ] JavaScript & Browser Support | 01:02:13
     [ ] Module Introduction | 01:29
     [ ] What Is "Browser Support" About? | 07:36
     [ ] Determining Browser Support For A JavaScript Feature | 08:20
@@ -529,7 +529,7 @@
     [ ] Browser Support Outside of JavaScript Files | 02:36
     [ ] Wrap Up | 01:18
     [ ] Useful Resources & Links | 00:10
-  [ ] – Time to Practice: Share My Place App | 01:14:30
+  [ ] Time to Practice: Share My Place App | 01:14:30
     [ ] Module Introduction | 00:53
     [ ] Setting Up the Project | 03:05
     [ ] Getting DOM Access | 04:33
@@ -544,14 +544,14 @@
     [ ] Copying the Link to the Clipboard | 03:36
     [ ] Rendering the "Shared Place" Screen | 06:22
     [ ] Useful Resources & Links | 00:07
-  [ ] – Working with JavaScript Frameworks | 30:50
+  [ ] Working with JavaScript Frameworks | 30:50
     [ ] Module Introduction | 01:06
     [ ] What and Why? | 07:35
     [ ] The Idea Behind React.js | 02:46
     [ ] Analysing a React Project | 17:38
     [ ] Wrap Up | 01:35
     [ ] Useful Resources & Links | 00:10
-  [ ] – Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API | 56:33
+  [ ] Meta-Programming: Symbols, Iterators, Generators, Reflect API & Proxy API | 56:33
     [ ] Module Introduction | 01:51
     [ ] Understanding Symbols | 08:27
     [ ] Well-known Symbols | 05:15
@@ -563,7 +563,7 @@
     [ ] Working with Proxy Traps | 02:57
     [ ] Wrap Up | 01:37
     [ ] Useful Resources & Links | 00:16
-  [ ] – Node.js: An Introduction | 01:44:29
+  [ ] Node.js: An Introduction | 01:44:29
     [ ] Module Introduction | 01:42
     [ ] JavaScript is a Hosted Language | 02:21
     [ ] Installation & Basics | 06:16
@@ -584,7 +584,7 @@
     [ ] NodeJS Error Handling | 00:52
     [ ] Wrap Up | 01:50
     [ ] Useful Resources & Links | 00:10
-  [ ] – Security | 37:04
+  [ ] Security | 37:04
     [ ] Module Introduction | 01:35
     [ ] Security Hole Overview & Exposing Data in your Code | 06:45
     [ ] Cross-Site Scripting Attacks (XSS) | 14:39
@@ -595,7 +595,7 @@
     [ ] CORS (Cross Origin Resource Sharing) | 02:53
     [ ] Wrap Up | 01:30
     [ ] Useful Resources & Links | 00:09
-  [ ] – Deploying JavaScript Code | 32:09
+  [ ] Deploying JavaScript Code | 32:09
     [ ] Module Introduction | 01:11
     [ ] Deployment Steps | 07:29
     [ ] Different Types of Websites | 00:32
@@ -603,7 +603,7 @@
     [ ] Injecting Script Imports Into HTML Automatically | 00:18
     [ ] Example: Dynamic Page Deployment (with Server-side Code) | 12:45
     [ ] Useful Resources & Links | 00:10
-  [ ] – Performance & Optimizations | 01:37:45
+  [ ] Performance & Optimizations | 01:37:45
     [ ] Module Introduction | 01:49
     [ ] What is "Performance Optimization" About? | 06:16
     [ ] Optimization Potentials | 06:48
@@ -620,7 +620,7 @@
     [ ] Server-side Performance Optimizations | 01:22
     [ ] Wrap Up | 03:26
     [ ] Useful Resources & Links | 00:11
-  [ ] – Introduction to Testing | 58:04
+  [ ] Introduction to Testing | 58:04
     [ ] Module Introduction | 00:49
     [ ] What Is Testing? Why Does It Matter? | 07:09
     [ ] Testing Setup | 04:10
@@ -630,7 +630,7 @@
     [ ] Dealing with Async Code | 10:20
     [ ] Working with Mocks | 07:51
     [ ] Useful Resources & Links | 00:11
-  [ ] – Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional) | 43:27
+  [ ] Bonus: Programming Paradigms (Procedural vs Object Oriented vs Functional) | 43:27
     [ ] Module Introduction | 00:48
     [ ] What are Programming Paradigms? | 03:01
     [ ] Procedural Programming in Practice | 08:53
@@ -638,7 +638,7 @@
     [ ] Functional Programming in Practice | 13:52
     [ ] Wrap Up | 03:26
     [ ] Useful Resources & Links | 00:07
-  [ ] – Bonus: Data Structures & Algorithms Introduction | 01:10:52
+  [ ] Bonus: Data Structures & Algorithms Introduction | 01:10:52
     [ ] Module Introduction | 02:02
     [ ] What are "Data Structures" & "Algorithms"? | 04:22
     [ ] A First Example | 10:22
@@ -650,7 +650,7 @@
     [ ] Diving into Data Structures & Time Complexities | 12:07
     [ ] Where to Learn More & Wrap Up | 03:22
     [ ] Useful Resources & Links | 00:13
-  [ ] – Bonus: TypeScript Introduction | 01:14:46
+  [ ] Bonus: TypeScript Introduction | 01:14:46
     [ ] Module Introduction | 01:11
     [ ] What is TypeScript and Why would you use it? | 04:58
     [ ] Working with Types | 10:05
@@ -661,7 +661,7 @@
     [ ] Generic Types | 05:02
     [ ] Configuring the TypeScript Compiler | 05:11
     [ ] Useful Resources & Links | 00:09
-  [ ] – Bonus: Web Components | 03:22:31
+  [ ] Bonus: Web Components | 03:22:31
     [ ] Module Introduction | 02:01
     [ ] Web Components in Action | 06:30
     [ ] What are Web Components? | 03:22
@@ -682,7 +682,7 @@
     [ ] Defining the Template in JavaScript | 03:21
     [ ] Using Style Tags in the Shadow DOM | 02:40
     [ ] Extending Built-in Elements | 07:33
-    [ ] Time to Practice - The Basics 
+    [ ] Time to Practice   The Basics 
     [ ] 1 question
     [ ] The Next Steps | 00:49
     [ ] Understanding Shadow DOM Projection | 02:26
@@ -712,6 +712,6 @@
     [ ] Configuring Custom Events | 04:52
     [ ] Finishing it up! | 04:51
     [ ] Useful Resources & Links | 00:07
-  [ ] – Roundup & Next Steps | 06:54
+  [ ] Roundup & Next Steps | 06:54
     [ ] Congratulations! | 06:09
     [ ] Bonus! (Next Steps Overview / Other Topics) | 00:45
