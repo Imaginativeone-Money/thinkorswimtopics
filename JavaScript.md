@@ -158,7 +158,8 @@
     - [ ] Useful Resources & Links | 00:10
   - [ ] More on Functions | 01:40:00
     - [ ] Module Introduction | 01:31
-    - [ ] Recapping Functions Knowledge   What We Know Thus Far | 01:52
+    - [ ] Recapping Functions Knowledge
+    - [ ] What We Know Thus Far | 01:52
     - [ ] Parameters vs Arguments | 00:26
     - [ ] Functions vs Methods | 05:46
     - [ ] Functions are Objects! | 02:47
